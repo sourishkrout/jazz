@@ -8,5 +8,5 @@ RUN \
   apt-get update ;\
   apt-get install -y --force-yes libmysqlclient-dev python-dev python-pip nodejs ;\
   pip install -U virtualenv ;\
-  npm install -g bower grunt-cli ;\
+  npm install -g bower grunt-cli
 # END RUN
