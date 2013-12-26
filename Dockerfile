@@ -11,5 +11,4 @@ RUN \
   apt-get install -y --force-yes libmysqlclient-dev python-dev python-pip nodejs mysql-server ;\
   pip install -U virtualenv ;\
   npm install -g bower grunt-cli ;\
-  mysqld &
 # END RUN
