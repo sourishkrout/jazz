@@ -1,6 +1,6 @@
 FROM ubuntu:precise
 
-MAINTAINER Sebastian Tiedtke <sebastiantiedtke@gmail.com> version: 0.1
+MAINTAINER Sebastian Tiedtke <sebastiantiedtke@gmail.com> version: 0.2
 
 RUN \
   echo "deb http://archive.ubuntu.com/ubuntu precise universe" >> /etc/apt/sources.list ;\
